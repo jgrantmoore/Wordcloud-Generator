@@ -14,18 +14,22 @@ Markdown is transformed into nice looking HTML.
 
 > **Also, include the GitHub `https` URL to your repository.**
 
-TODO WRITE / REPLACE
+This app takes a user inputted url and scrapes the website for visible text (using api-ninjas
+webscraper api) and takes the first 200 words of that text and makes a word cloud out of it (using
+quickchart's word cloud api) Github: https://github.com/jgrantmoore/cs1302-api
 
 ## Part 2: New
 
 > What is something new and/or exciting that you learned from working
 > on this project?
 
-TODO WRITE / REPLACE
+While I didn't end up having to use it, I leaned about POST requests and how you can pass along
+a JSON configuration file with a Http request
 
 ## Part 3: Retrospect
 
 > If you could start the project over from scratch, what do
 > you think might do differently and why?
 
-TODO WRITE / REPLACE
+I think I would have chosen different api's to link together/gone with a different idea. This one
+was rather easy but it was fun nevertheless!
